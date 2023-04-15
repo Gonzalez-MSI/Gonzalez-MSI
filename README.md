@@ -14,7 +14,7 @@ I'm a communications & electronics engineering student from Mexico and i program
 
 ## Currently working on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
 
-Programming the Taylor Series of some constants and mathematical functions like exponentials, logarithms, trigonometric functions and others. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
+Programming the Taylor Series of some constants and mathematical functions like exponentials, logarithms, trigonometric functions and others in C <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
 
 
 
