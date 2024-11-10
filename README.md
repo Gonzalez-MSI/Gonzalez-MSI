@@ -13,19 +13,9 @@ I'm a communications & electronics engineering student from Mexico and i like pr
 
 ## Currently working on <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />
 
-Learning C++ GUI programming with Qt
+Scientific research and programming with Python 
 
-```c
- 
-  ██████╗ ████████╗     ██████╗ 
- ██╔═══██╗╚══██╔══╝    ██╔════╝ 
- ██║   ██║   ██║       ███████╗ 
- ██║▄▄ ██║   ██║       ██╔═══██╗
- ╚██████╔╝   ██║       ╚██████╔╝
-  ╚══▀▀═╝    ╚═╝        ╚═════╝ 
-                                
-```
-
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/programming%20languages/python.svg" alt="Pencil" width="50" height="50" />
 
 ...
 
